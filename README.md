@@ -169,7 +169,7 @@ Each script runs the experimental pipeline, including training and evaluation, a
 
 ### Main Results on X-TAIL (Order I)
 
-The following results (%) are averaged over five random seeds.
+The following results (%) are averaged over five random seeds (0, 1, 2, 3, and 4).
 
 | **Setting** | **Transfer** | **Average** | **Last** |
 | ----------- | -------------- | ------------- | ---------- |
